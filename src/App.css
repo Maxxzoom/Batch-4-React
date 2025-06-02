@@ -6,8 +6,8 @@
   padding: 0;
 }
 .container{
-    width: 100%;
-    padding: 2rem;
+    width: 90%;
+    margin: 2rem;
     background-color: cadetblue;
     height: 70vh;
 }
